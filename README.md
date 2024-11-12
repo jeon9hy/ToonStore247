@@ -1,5 +1,4 @@
 # ToonStore247
-VendingMachine Project by Java
 
 1. 개요
    
@@ -15,7 +14,8 @@ VendingMachine Project by Java
 
 
 
-3. 주요 기능 및 예시
+
+2. 주요 기능 및 예시
 
 ■ 기능 목록 : 회원 가입/로그인, 만화 검색, 만화 정보 관리, 만화 재고 관리, 대여/판매, 요금 충전, 내 정보 조회, 관리자 모드 등
 
@@ -38,6 +38,7 @@ VendingMachine Project by Java
 
 
 
+
 3. 시스템 설계
    
 ■ 기술 스택 : 
@@ -47,7 +48,9 @@ VendingMachine Project by Java
 ●	IDE: intelliJ IDEA, Eclipse 등
 
 
-5. 구현 계획
+
+
+4. 구현 계획
    
 ■ 작업 분담:
 
@@ -68,6 +71,7 @@ VendingMachine Project by Java
 
 
 
+
 5. 프로젝트 기대 효과
    
 ■ 실무 적용 능력 향상: 학습해온 자바 이론을 실제 프로젝트에 적용하여 이론과 실무 간의 간극을 해소하고, 실무적인 문제 해결 능력을 키울 수 있습니다.
@@ -85,6 +89,7 @@ VendingMachine Project by Java
 ■ 발표 능력 향상: 프로젝트 결과를 발표하는 과정을 통해 발표 능력을 향상시킬 수 있습니다.
 
 ■ 창의성 증진: 새로운 아이디어를 도출하고 구현하는 과정을 통해 창의성을 증진시킬 수 있습니다.
+
 
 
 
