@@ -1135,6 +1135,9 @@ class ToonStore247 {
                     break;
                 case 2:
                     uc.signUp();
+                    uc.saveUserMapToFile("userData.ser");
+                    cc.saveComicMapToFile("comicData.ser");
+                    ManagerController.saveManagerDataToFile("managerData.ser");
                     break;
                 case 3:
                     uc.saveUserMapToFile("userData.ser");
